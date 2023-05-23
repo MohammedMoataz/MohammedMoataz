@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **BlockChain**
 
-- 💬 Ask me about **Node.JS / React.JS**
+- 💬 Ask me about **Node.JS**
 
 - 📫 How to reach me **imohammedmoataz@gmail.com**
 
