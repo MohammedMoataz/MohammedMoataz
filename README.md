@@ -29,6 +29,6 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedmoataz&theme=radical&hide_border=false&&border_color=d83b7d&show_icons=true&locale=en&&show=reviews,discussions_started,discussions_answered&card_width=600&include_all_commits=true" alt="mohammedmoataz" /></p> <br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedmoataz&theme=radical&hide_border=false&&border_color=d83b7d&border_radius=20&show_icons=true&locale=en&&show=reviews,discussions_started,discussions_answered&card_width=600&include_all_commits=true" alt="mohammedmoataz" /></p> <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedmoataz&theme=vue-dark&hide_border=false&border_radius=15&card_width=500&include_all_commits=true&count_private=true" alt="mohammedmoataz" /></p> <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmoataz&theme=dark&hide_border=false&border_color=2e4058&include_all_commits=false&show_icons=true&locale=en&layout=donut-vertical" alt="mohammedmoataz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmoataz&theme=dark&hide_border=false&border_color=2e4058&&border_radius=10&include_all_commits=false&show_icons=true&locale=en&layout=donut-vertical" alt="mohammedmoataz" /></p>
