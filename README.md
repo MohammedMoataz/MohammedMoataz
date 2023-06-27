@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Moataz</h1>
 <h3 align="center">Resourceful software engineer with both front-end and back-end development experience. Smart and consistently educated designer of user interactions on sound and user-friendly websites and databases. Proven troubleshooting with a solid grounding in data-driven concepts and applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedmoataz&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedmoataz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedmoataz&label=Profile%20views&color=f0932b&style=flat" alt="mohammedmoataz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedmoataz" alt="mohammedmoataz" /></a> </p>
 
