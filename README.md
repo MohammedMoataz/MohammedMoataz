@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **imohammedmoataz@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/3UoCiOX](http://bit.ly/3UoCiOX)
+- 📄 Know about my experiences <a href="http://bit.ly/3UoCiOX" target="blank">Mohammed Moataz Resume<a/>
 
 
 <h3 align="left">Connect with me:</h3>
