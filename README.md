@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img src="https://github.com/MohammedMoataz/MohammedMoataz/blob/main/snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -48,7 +48,7 @@
 
 
 <details>
-  <summary><picture><img src="https://media.giphy.com/media/Kd5t8Q0aUDui9yaf9n/giphy.gif" width="35"></picture> Contact me:</summary>
+  <summary><picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="35"></picture> Contact me:</summary>
 <div>
   <samp>
     <p align="center">
