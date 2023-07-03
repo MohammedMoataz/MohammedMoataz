@@ -56,7 +56,7 @@
       <a href="https://www.linkedin.com/in/mohammed-moataz/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="Mohammed Moataz - LinkedIn" height="30"/></a>
-      <a href="https://fb.com/mo.moataz" target="blank"><img align="center"
+      <a href="https://fb.com/mo.moatazz" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="Mohammed Moataz - Facebook" height="30"/></a>
       <a href="mailto:imohammedmoataz@gmail.com" target="blank"><img align="center"
@@ -67,16 +67,19 @@
       <a href="https://wa.me/+201008581523" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="Mohammed Moataz - Whatsapp" height="30"/></a>
+       <a href="https://t.me/mohammedmoataz" target="blank"><img align="center"
+         src="https://img.shields.io/badge/telegram-1C93E3.svg?style=for-the-badge&logo=telegram&logoColor=white"
+         alt="Mohammed Moataz - Whatsapp" height="30"/></a>
       <a href="https://twitter.com/imohammedmoataz" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="Mohammed Moataz - Twitteer" height="30"/></a>
       <br />
     </p>
     <p align="center">
-      <a href="https://wa.me/+201008581523" target="blank"><img align="center"
+      <a href="https://www.hackerrank.com/dashboard" target="blank"><img align="center"
          src="https://img.shields.io/badge/HackerRank-32C766.svg?style=for-the-badge&logo=hackerrank&logoColor=black"
          alt="Mohammed Moataz - Hacker Rank" height="30"/></a>
-      <a href="https://twitter.com/imohammedmoataz" target="blank"><img align="center"
+      <a href="https://codeforces.com/profile/MoMoataz" target="blank"><img align="center"
          src="https://img.shields.io/badge/codeforces-F5C639.svg?style=for-the-badge&logo=codeforces&logoColor=white"
          alt="Mohammed Moataz - Code Forces" height="30"/></a>
       <br />
