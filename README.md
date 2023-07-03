@@ -74,7 +74,7 @@
          alt="Mohammed Moataz - Twitteer" height="30"/></a>
     </p>
     <p align="center">
-      <a href="https://www.hackerrank.com/dashboard" target="_blank"><img align="center"
+      <a href="https://www.hackerrank.com/Mohammed_Moataz" target="_blank"><img align="center"
          src="https://img.shields.io/badge/HackerRank-32C766.svg?style=for-the-badge&logo=hackerrank&logoColor=black"
          alt="Mohammed Moataz - Hacker Rank" height="30"/></a>
       <a href="https://codeforces.com/profile/MoMoataz" target="_blank"><img align="center"
