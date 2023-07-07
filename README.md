@@ -34,7 +34,7 @@
          src="https://media.giphy.com/media/POGZSdekmTv4MhuYaR/giphy.gif"
          alt="Mohammed Moataz - Resume"
          width="25px"/>Know more about my experience
-    <a href="http://bit.ly/3UoCiOX" target="_blank">Mohammed Moataz Resume</a>
+    <a href="https://cutt.ly/8wisXOf2" target="_blank">Mohammed Moataz Resume</a>
   </p>
  </samp>
 </div>
