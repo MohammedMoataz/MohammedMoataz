@@ -4,9 +4,8 @@
 <br />
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/" target="_blank">
   <img src="https://github.com/MohammedMoataz/MohammedMoataz/blob/main/snake.svg"
-       alt="snake" /></a>
+       alt="snake" />
 </div>
 
 
