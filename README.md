@@ -98,14 +98,14 @@
  <br>
 
 
-- **Mobile**:
+- **Mobile Development**:
 
     ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
  <br>
 
 
- - **Block Chain**:
+ - **Block-Chain Development**:
 
     ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white)
     ![Truffle Suit](https://img.shields.io/badge/Truffle-E4A663?style=for-the-badge&logo=trufflesuite&logoColor=white)
