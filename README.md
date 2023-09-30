@@ -1,6 +1,8 @@
-<p align="center" color="#1DB4B5"><b>Hi , I'm Mohammed Moataz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></p>
-
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=5000&pause=500&color=1ec1c1&vCenter=true&width=450&lines=I+am+a+Software+Engineer;Scroll+down+to+know+more+%3A)" alt="Typing SVG" /></a></div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=5000&pause=500&color=1ec1c1&vCenter=true&width=450&lines=Hi+,+I'm+Mohammed+Moataz;I+am+a+Software+Engineer;Scroll+down+to+know+more+%3A)" alt="Typing SVG" />
+  </a>
+</div>
 <br />
 
 <div align="center">
