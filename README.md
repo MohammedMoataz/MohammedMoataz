@@ -158,12 +158,6 @@
          alt="Mohammed Moataz - Gmail" height="30"/></a>
     </p>
     <p align="center">
-      <a href="https://wa.me/+201008581523" target="_blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="Mohammed Moataz - Whatsapp" height="30"/></a>
-       <a href="https://t.me/mohammedmoataz" target="_blank"><img align="center"
-         src="https://img.shields.io/badge/telegram-1C93E3.svg?style=for-the-badge&logo=telegram&logoColor=white"
-         alt="Mohammed Moataz - Whatsapp" height="30"/></a>
       <a href="https://twitter.com/imohammedmoataz" target="_blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="Mohammed Moataz - Twitteer" height="30"/></a>
