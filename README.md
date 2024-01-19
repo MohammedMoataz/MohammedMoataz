@@ -59,7 +59,6 @@
 
       ![C](https://img.shields.io/badge/C-2370ED.svg?style=for-the-badge&logo=c&logoColor=white)
       ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-      ![Python](https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white)
       ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
       ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
       ![Java](https://img.shields.io/badge/Java-3A75B0?style=for-the-badge&logo=CoffeeScript&logoColor=white)
@@ -84,8 +83,8 @@
 
 - **Backend Development**:
 
+    ![Node JS](https://img.shields.io/badge/Node.JS-3E863D?style=for-the-badge&logo=Node.js&logoColor=white)
     ![Java Spring](https://img.shields.io/badge/Spring-6CB52D?style=for-the-badge&logo=Spring&logoColor=white)
-    ![Express JS](https://img.shields.io/badge/Express.JS-444444?style=for-the-badge&logo=Express&logoColor=white)
     ![PHP Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
 
  <br>
