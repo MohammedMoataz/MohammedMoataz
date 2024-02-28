@@ -22,9 +22,7 @@
 <samp>
 <picture> <img align="right" width=200px alt="side_sticker" src="https://media.giphy.com/media/aWclbRb938Tc8FFAvH/giphy.gif" /></picture>
 
-- **Resourceful software engineer with both front-end and back-end development experience.**
-- **Smart and consistently educated designer of user interactions on sound and user-friendly websites and databases.**
-- **Proven troubleshooting with a solid grounding in data-driven concepts and applications.**
+  <p>I'm a resourceful software engineer, and I specialize in both front-end and back-end development, ensuring seamless integration of user interfaces with efficient back-end systems. My expertise lies in designing websites and databases that are user-friendly, with an emphasis on sound user interactions and data-based insights. By continuously learning, I am able to stay up-to-date with industry trends and best practices, enabling me to continuously deliver high-quality software solutions.</p>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedmoataz&label=Profile%20views&color=blue&style=for-the-badge" alt="mohammedmoataz" /> </p>
   
