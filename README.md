@@ -186,12 +186,12 @@
 <div>
   <samp>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmoataz&theme=dark&hide_border=false&border_color=2e4058&&border_radius=10&include_all_commits=false&show_icons=true&locale=en&layout=donut-vertical" alt="mohammedmoataz" /></p>
-  
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedmoataz&theme=vue-dark&hide_border=false&border_radius=15&card_width=500&include_all_commits=true&count_private=true" alt="mohammedmoataz" /></p> <br/>
-  
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedmoataz&theme=radical&hide_border=false&&border_color=d83b7d&border_radius=20&show_icons=true&locale=en&card_width=500&include_all_commits=true" alt="mohammedmoataz" /></p> <br/>
+<a href="https://github.com/mohammedmoataz?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=mohammedmoataz&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="49%" alt="Mohammed's github-readme-stats" /></a>
+<a href="https://github.com/mohammedmoataz?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohammedmoataz&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D"  width="49%" alt="Mohammed's github-readme-streak-stats"/></a>
 
+<a><img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedmoataz&theme=gotham&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repositories" width="70%" alt="activity graph"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmoataz&theme=gotham&hide_border=true&include_all_commits=true&show_icons=true&locale=en&layout=compact&langs_count=6" width="27%" alt="Mohammed's github-most-languages" /></a>
+  
   </samp>
 </div>
 </details>
