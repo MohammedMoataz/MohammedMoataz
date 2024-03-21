@@ -169,6 +169,9 @@
       <a href="https://codeforces.com/profile/MoMoataz" target="_blank"><img align="center"
          src="https://img.shields.io/badge/codeforces-F5C639.svg?style=for-the-badge&logo=codeforces&logoColor=white"
          alt="Mohammed Moataz - Code Forces" height="30"/></a>
+      <a href="https://leetcode.com/imohammedmoataz/" target="_blank"><img align="center"
+         src="https://img.shields.io/badge/leetcode-1a1a1a.svg?style=for-the-badge&logo=leetcode&logoColor=#FFA116"
+         alt="Mohammed Moataz - LeetCode" height="30"/></a>
     </p>
   </samp>
 </div>
