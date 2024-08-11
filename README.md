@@ -7,7 +7,7 @@
 
 
 <details>
-  <summary><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px></picture> About Me</summary>
+  <summary><picture><img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpmcG5rNGFnMjRvYWYxaW04ZmZvNGZ6YTVoZDdtc3R5ZGRobTBjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvT2uzkzsSWmmkvl5g/giphy.gif" width = 20px></picture> About Me</summary>
 <div>
 <samp>
 <picture> <img align="right" width=200px alt="side_sticker" src="https://media.giphy.com/media/aWclbRb938Tc8FFAvH/giphy.gif" /></picture>
@@ -129,7 +129,7 @@
 
 
 <details>
-  <summary><picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="35"></picture> Contact me:</summary>
+  <summary><picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpobmdpMXVyMnY3NHB4NHg2cXU3MHJxcndoenBtazFhbDdxc210byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5Y6dELctbC0LwkFWam/giphy.gif" width="35"></picture> Contact me:</summary>
 <div>
   <samp>
     <br />
