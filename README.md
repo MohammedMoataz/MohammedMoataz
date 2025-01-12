@@ -12,7 +12,7 @@
 <samp>
 <picture> <img align="right" width=200px alt="side_sticker" src="https://media.giphy.com/media/aWclbRb938Tc8FFAvH/giphy.gif" /></picture>
 
-  <p>I'm a resourceful software engineer, and I specialize in both front-end and back-end development, ensuring seamless integration of user interfaces with efficient back-end systems. My expertise lies in designing websites and databases that are user-friendly, with an emphasis on sound user interactions and data-based insights. By continuously learning, I am able to stay up-to-date with industry trends and best practices, enabling me to continuously deliver high-quality software solutions.</p>
+  <p>I'm a resourceful software engineer. I specialize in both front-end and back-end development, ensuring seamless integration of user interfaces with efficient back-end systems. My expertise lies in designing user-friendly websites and efficient databases, with a strong focus on intuitive user interactions and data-driven insights. By continuously learning, I can stay up-to-date with industry trends and best practices, enabling me to deliver high-quality software solutions tailored to client needs continuously.</p>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedmoataz&label=Profile%20views&color=blue&style=for-the-badge" alt="mohammedmoataz" /> </p>
   
@@ -21,9 +21,9 @@
   <p align="left">
     <img align="center"
          src="https://media.giphy.com/media/POGZSdekmTv4MhuYaR/giphy.gif"
-         alt="Mohammed Moataz - Resume"
+         alt="Mohammed Moataz - Software Engineer"
          width="25px"/>Know more about my experience
-    <a href="https://cutt.ly/0ez68dd8" target="_blank">Mohammed Moataz Resume</a>
+    <a href="https://drive.google.com/drive/folders/1xE6D9SqpE5cyb2pE650nWHv-NoNqr7io?usp=drive_link" target="_blank">Mohammed Moataz - Software Engineer</a>
   </p>
  </samp>
 </div>
@@ -50,8 +50,7 @@
       ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
       ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
       ![Java](https://img.shields.io/badge/Java-3A75B0?style=for-the-badge&logo=CoffeeScript&logoColor=white)
-      ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-      ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Scala&logoColor=white)
+      ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
       ![Dart](https://img.shields.io/badge/Dart-03589C?style=for-the-badge&logo=Dart&logoColor=white)
       ![Solidity](https://img.shields.io/badge/Solidity-2B247C?style=for-the-badge&logo=Solidity&logoColor=white)
     
@@ -64,6 +63,7 @@
     ![CSS 3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
     ![SASS](https://img.shields.io/badge/SASS-CF649A?style=for-the-badge&logo=SASS&logoColor=white)
     ![React JS](https://img.shields.io/badge/React.JS-149ECA?style=for-the-badge&logo=React&logoColor=white)
+    ![Next JS](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=Next&logoColor=white)
     ![Redux JS](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
  <br>
@@ -72,8 +72,9 @@
 - **Backend Development**:
 
     ![Node JS](https://img.shields.io/badge/Node.JS-3E863D?style=for-the-badge&logo=Node.js&logoColor=white)
+    ![Express JS](https://img.shields.io/badge/Express.JS-545C67?style=for-the-badge&logo=Express.js&logoColor=white)
+    ![Nest JS](https://img.shields.io/badge/Nest.JS-EA2845?style=for-the-badge&logo=Nest.js&logoColor=white)
     ![Java Spring](https://img.shields.io/badge/Spring-6CB52D?style=for-the-badge&logo=Spring&logoColor=white)
-    ![PHP Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
 
  <br>
 
@@ -81,6 +82,7 @@
 - **Database**:
 
     ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-326790?style=for-the-badge&logo=mysql&logoColor=white)
     ![SQLite](https://img.shields.io/badge/SQLite-0F80CC?style=for-the-badge&logo=sqlite&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -111,6 +113,7 @@
     ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
     ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+    ![Swagger](https://img.shields.io/badge/Swagger-6D9B00?style=for-the-badge&logo=postman&logoColor=white)
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
     ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -134,23 +137,15 @@
   <samp>
     <br />
     <p align="center">
-      <a href="https://www.linkedin.com/in/mohammed-moataz/" target="_blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="Mohammed Moataz - LinkedIn" height="30"/></a>
-      <a href="https://fb.com/mo.moatazz" target="_blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="Mohammed Moataz - Facebook" height="30"/></a>
-      <a href="mailto:imohammedmoataz@gmail.com" target="_blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Mohammed Moataz - Gmail" height="30"/></a>
-    </p>
-    <p align="center">
       <a href="https://wa.me/+201008581523" target="_blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-20CB41.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="Mohammed Moataz - WhatsApp" height="30"/></a>
-      <a href="https://t.me/mohammedmoataz" target="_blank"><img align="center"
-         src="https://img.shields.io/badge/telegram-27A7E8.svg?style=for-the-badge&logo=telegram&logoColor=white"
-         alt="Mohammed Moataz - Telegram" height="30"/></a>
+      <a href="https://www.linkedin.com/in/mohammed-moataz/" target="_blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="Mohammed Moataz - LinkedIn" height="30"/></a>
+      <a href="mailto:imohammedmoataz@gmail.com" target="_blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="Mohammed Moataz - Gmail" height="30"/></a>
     </p>
     <p align="center">
       <a href="https://www.hackerrank.com/Mohammed_Moataz" target="_blank"><img align="center"
