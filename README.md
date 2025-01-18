@@ -12,7 +12,7 @@
 <samp>
 <picture> <img align="right" width=200px alt="side_sticker" src="https://media.giphy.com/media/aWclbRb938Tc8FFAvH/giphy.gif" /></picture>
 
-  <p>I'm a resourceful software engineer. I specialize in both front-end and back-end development, ensuring seamless integration of user interfaces with efficient back-end systems. My expertise lies in designing user-friendly websites and efficient databases, with a strong focus on intuitive user interactions and data-driven insights. By continuously learning, I can stay up-to-date with industry trends and best practices, enabling me to deliver high-quality software solutions tailored to client needs continuously.</p>
+  <p>A resourceful software engineer specializing in designing seamless, user-friendly solutions by integrating intuitive interfaces with efficient systems. With expertise in crafting user-focused websites and robust databases, I prioritize data-driven insights and innovative interactions. Continuously learning to stay ahead of industry trends, I deliver high-quality, tailored software solutions that meet client needs.</p>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedmoataz&label=Profile%20views&color=blue&style=for-the-badge" alt="mohammedmoataz" /> </p>
   
