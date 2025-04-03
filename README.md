@@ -6,7 +6,7 @@
 
 <!-- Smaller Software Engineer Banner -->
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Software%20Engineer&width=600&height=150" alt="Software Engineer Banner">
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Software%20Engineer&width=1000&height=150" alt="Software Engineer Banner">
 </div>
 
 <div align="center">
