@@ -34,7 +34,7 @@
          src="https://media.giphy.com/media/POGZSdekmTv4MhuYaR/giphy.gif"
          alt="Resume"
          width="25px"/> Know more about my experience
-    <a href="https://drive.google.com/drive/folders/1xE6D9SqpE5cyb2pE650nWHv-NoNqr7io?usp=drive_link" target="_blank">Mohammed Moataz - Software Engineer</a>
+    <a target="_blank" href="https://drive.google.com/drive/folders/1xE6D9SqpE5cyb2pE650nWHv-NoNqr7io?usp=drive_link">Mohammed Moataz - Software Engineer</a>
   </p>
  </samp>
 </div>
@@ -233,7 +233,7 @@
   <!-- Portfolio iframe reference -->
   <div align="center">
     <h4>My Portfolio</h4>
-    <a href="https://mohammed-moataz.vercel.app" target="_blank">
+    <a target="_blank" href="https://mohammed-moataz.vercel.app">
       <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-1ec1c1?style=for-the-badge" alt="View Portfolio" />
     </a>
   </div>
@@ -244,6 +244,5 @@
 <br />
 
 <div align="center">
-  <img src="https://github.com/MohammedMoataz/MohammedMoataz/blob/main/snake.svg"
-       alt="snake" />
+  <img src="https://github.com/MohammedMoataz/MohammedMoataz/blob/main/snake.svg" alt="snake" />
 </div>
