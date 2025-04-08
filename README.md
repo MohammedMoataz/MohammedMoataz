@@ -222,27 +222,27 @@
 <summary style="cursor: pointer; font-weight: bold; list-style: none;"><picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> GitHub Account's Status</summary>
   <br/>
 <div>
-  <samp>
+<samp>
 
-<a href="https://github.com/mohammedmoataz?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=mohammedmoataz&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="49%" alt="Mohammed's github-readme-stats" /></a>
-<a href="https://github.com/mohammedmoataz?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohammedmoataz&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D"  width="49%" alt="Mohammed's github-readme-streak-stats"/></a>
-
-<a><img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedmoataz&theme=gotham&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repositories" width="70%" alt="activity graph"></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmoataz&theme=gotham&hide_border=true&include_all_commits=true&show_icons=true&locale=en&layout=compact&langs_count=6" width="27%" alt="Mohammed's github-most-languages" /></a>
+  <a href="https://github.com/mohammedmoataz?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=mohammedmoataz&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="49%" alt="Mohammed's github-readme-stats" /></a>
+  <a href="https://github.com/mohammedmoataz?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohammedmoataz&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D"  width="49%" alt="Mohammed's github-readme-streak-stats"/></a>
+  
+  <a><img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedmoataz&theme=gotham&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&area=true&custom_title=Contribution%20Curve" width="100%" alt="activity graph"></a>
+  <!-- <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmoataz&theme=gotham&hide_border=true&include_all_commits=true&show_icons=true&locale=en&layout=compact&langs_count=6" width="27%" alt="Mohammed's github-most-languages" /></a> -->
+    
+  <div align="center">
+    <img src="https://github.com/MohammedMoataz/MohammedMoataz/blob/main/snake.svg" alt="snake" />
+  </div>
+  <br />
   
   <!-- Portfolio iframe reference -->
   <div align="center">
-    <h4>My Portfolio</h4>
     <a target="_blank" href="https://mohammed-moataz.vercel.app">
-      <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-1ec1c1?style=for-the-badge" alt="View Portfolio" />
+      <img src="https://img.shields.io/badge/KNOW%20ME%20MORE-1ec1c1?style=for-the-badge" alt="View My Portfolio" />
     </a>
   </div>
   
-  </samp>
+</samp>
 </div>
 </details>
 <br />
-
-<div align="center">
-  <img src="https://github.com/MohammedMoataz/MohammedMoataz/blob/main/snake.svg" alt="snake" />
-</div>
