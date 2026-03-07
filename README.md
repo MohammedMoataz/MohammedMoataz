@@ -1,10 +1,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=5000&pause=500&color=1ec1c1&vCenter=true&width=600&lines=Hi+,+I'm+Mohammed+Moataz;Full+Stack+Developer;Node+JS+%7C+React+JS+%7C+Next+JS+%7C+ASP.NET;Building+modern+web+experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=5000&pause=500&color=1ec1c1&vCenter=true&width=720&lines=++++++++Hi+,+I'm+Mohammed+Moataz=++++++++;Software+Engineer+%7C+Full+Stack+Developer;Clean+Architecture+%7C+DDD+%7C+Event+Driven+%7C+CQRS;Node.js+%7C+React+%7C+Next.js+%7C+ASP.NET+Core;Building+scalable%2C+production-ready+systems" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Smaller Software Engineer Banner -->
 <div align="center">
   <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Software%20Engineer&width=1000&height=150" alt="Software Engineer Banner">
 </div>
@@ -19,22 +18,32 @@
 <br />
 
 <details open>
-  <summary style="cursor: pointer; font-weight: bold; list-style: none;"><picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpmcG5rNGFnMjRvYWYxaW04ZmZvNGZ6YTVoZDdtc3R5ZGRobTBjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvT2uzkzsSWmmkvl5g/giphy.gif" width = 20px></picture> About Me</summary>
+  <summary style="cursor: pointer; font-weight: bold; list-style: none;"><picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpmcG5rNGFnMjRvYWYxaW04ZmZvNGZ6YTVoZDdtc3R5ZGRobTBjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvT2uzkzsSWmmkvl5g/giphy.gif" width="20px"></picture> About Me</summary>
 <div>
 <samp>
-<picture> <img align="right" width=200px alt="side_sticker" src="https://media.giphy.com/media/aWclbRb938Tc8FFAvH/giphy.gif" /></picture>
+<picture><img align="right" width="200px" alt="side_sticker" src="https://media.giphy.com/media/aWclbRb938Tc8FFAvH/giphy.gif" /></picture>
 
-  <p>I'm a detail-oriented full stack developer specializing in crafting scalable web applications with JavaScript/TypeScript. With expertise in modern frameworks and design patterns, I transform complex requirements into elegant, performant solutions. Applying agile methodologies and clean code practices, I build robust systems that solve real business problems and deliver exceptional user experiences.</p>
+  <p>I'm a Software Engineer with a strong emphasis on <b>Clean Architecture, Domain-Driven Design (DDD), and CQRS</b>. I specialize in translating high-level architectural designs into scalable <b>Event-Driven</b> and <b>Vertical Slice</b> architectures. With hands-on experience across the full stack, I build robust backend systems, secure authentication flows, and dynamic user interfaces — leveraging AI-augmented workflows to ship high-quality, production-ready code.</p>
+
+  <h4>🚀 What I Do</h4>
+  <ul>
+    <li>Architect scalable backend systems using Event-Driven architecture, CQRS, and DDD</li>
+    <li>Build secure authentication systems, OTP subsystems, and process middleware</li>
+    <li>Design hybrid data models across SQL and NoSQL databases</li>
+    <li>Integrate AI services and automation into backend workflows</li>
+    <li>Develop multi-tenant SaaS platforms with role-based access control and auditing</li>
+    <li>Implement smart contracts and blockchain-based solutions</li>
+  </ul>
 
   <h4>🌱 Current Focus</h4>
-  <p>Leveling up my expertise with advanced Nest.js APIs, component-driven React applications, and Next.js server-side rendering techniques. Exploring microservice architectures and GraphQL implementations for more efficient data handling.</p>
+  <p>Currently working at <b>IgnteQ</b>, building enterprise-grade platforms with event-driven microservice patterns, background job processing, and payment gateway integrations. Deepening expertise in <b>ASP.NET Core</b>, <b>NestJS</b>, and cloud-native architecture patterns.</p>
   
   <p align="left">
     <img align="center"
          src="https://media.giphy.com/media/POGZSdekmTv4MhuYaR/giphy.gif"
          alt="Resume"
-         width="25px"/> Know more about my experience
-    <a target="_blank" href="https://drive.google.com/drive/folders/1xE6D9SqpE5cyb2pE650nWHv-NoNqr7io?usp=drive_link">Mohammed Moataz - Software Engineer</a>
+         width="25px"/> Know more about my experience:
+    <a target="_blank" href="https://drive.google.com/drive/folders/1xE6D9SqpE5cyb2pE650nWHv-NoNqr7io?usp=drive_link">Mohammed Moataz — Software Engineer CV</a>
   </p>
  </samp>
 </div>
@@ -45,13 +54,32 @@
 <br />
 
 <details open>
-  <summary style="cursor: pointer; font-weight: bold; list-style: none;"><picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px></picture> Tech Stack</summary>
+  <summary style="cursor: pointer; font-weight: bold; list-style: none;"><picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"></picture> Tech Stack</summary>
 <div>
   <samp>
     <br />
     
    <p align="center">
    
+  - **Architecture & Patterns**:
+      ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1ec1c1?style=for-the-badge&logoColor=white)
+      ![DDD](https://img.shields.io/badge/DDD-1ec1c1?style=for-the-badge&logoColor=white)
+      ![CQRS](https://img.shields.io/badge/CQRS-1ec1c1?style=for-the-badge&logoColor=white)
+      ![SOLID](https://img.shields.io/badge/SOLID-1ec1c1?style=for-the-badge&logoColor=white)
+      ![Event--Driven](https://img.shields.io/badge/Event--Driven-1ec1c1?style=for-the-badge&logoColor=white)
+
+  <br>
+
+  - **Backend Ecosystem**:
+      ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+      ![Node JS](https://img.shields.io/badge/Node.JS-3E863D?style=for-the-badge&logo=Node.js&logoColor=white)
+      ![Express JS](https://img.shields.io/badge/Express.JS-545C67?style=for-the-badge&logo=Express&logoColor=white)
+      ![Nest JS](https://img.shields.io/badge/Nest.JS-EA2845?style=for-the-badge&logo=NestJs&logoColor=white)
+      ![Java Spring](https://img.shields.io/badge/Spring-6CB52D?style=for-the-badge&logo=Spring&logoColor=white)
+      ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+ <br>
+
   - **Frontend Ecosystem**:
       ![React JS](https://img.shields.io/badge/React.JS-149ECA?style=for-the-badge&logo=React&logoColor=white)
       ![Next JS](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=Next.js&logoColor=white)
@@ -61,15 +89,6 @@
       ![SASS](https://img.shields.io/badge/SASS-CF649A?style=for-the-badge&logo=SASS&logoColor=white)
     
   <br>
-  
-  - **Backend Ecosystem**:
-      ![Node JS](https://img.shields.io/badge/Node.JS-3E863D?style=for-the-badge&logo=Node.js&logoColor=white)
-      ![Express JS](https://img.shields.io/badge/Express.JS-545C67?style=for-the-badge&logo=Express&logoColor=white)
-      ![Nest JS](https://img.shields.io/badge/Nest.JS-EA2845?style=for-the-badge&logo=NestJs&logoColor=white)
-      ![Java Spring](https://img.shields.io/badge/Spring-6CB52D?style=for-the-badge&logo=Spring&logoColor=white)
-      ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
-
- <br>
 
  - **Database & Storage**:
       ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -82,6 +101,7 @@
  - **Programming Languages**:
       ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
       ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+      ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
       ![Java](https://img.shields.io/badge/Java-3A75B0?style=for-the-badge&logo=CoffeeScript&logoColor=white)
       ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
       ![Solidity](https://img.shields.io/badge/Solidity-2B247C?style=for-the-badge&logo=Solidity&logoColor=white)
@@ -103,81 +123,23 @@
       ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
       ![Swagger](https://img.shields.io/badge/Swagger-6D9B00?style=for-the-badge&logo=swagger&logoColor=white)
  
+<br>
+ 
+ - **APIs & Reliability**:
+      ![REST](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logoColor=white)
+      ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logoColor=white)
+      ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+      ![OAuth](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+ 
  </p>
 
   </samp>
 </div>
 </details>
 
-<!-- Featured Projects Section (Commented out as requested)
 <br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br />
-
-<details>
-  <summary style="cursor: pointer; font-weight: bold; list-style: none;"><picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpobmdpMXVyMnY3NHB4NHg2cXU3MHJxcndoenBtazFhbDdxc210byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5Y6dELctbC0LwkFWam/giphy.gif" width="25"></picture> Featured Projects</summary>
-<div>
-  <samp>
-    <br />
-    
-   <h3>Web Development</h3>
-   <table>
-     <tr>
-       <td><b>Project Name</b></td>
-       <td><b>Description</b></td>
-       <td><b>Tech Stack</b></td>
-       <td><b>Link</b></td>
-     </tr>
-     <tr>
-       <td>E-commerce Platform</td>
-       <td>Full-featured online store with payment processing</td>
-       <td>Next.js, Node.js, MongoDB, Stripe</td>
-       <td><a href="#project-link" target="_blank">Link</a></td>
-     </tr>
-     <tr>
-       <td>CRM Dashboard</td>
-       <td>Customer management system with analytics</td>
-       <td>React, Redux, Express, PostgreSQL</td>
-       <td><a href="#project-link" target="_blank">Link</a></td>
-     </tr>
-   </table>
-   
-   <h3>Blockchain</h3>
-   <table>
-     <tr>
-       <td><b>Project Name</b></td>
-       <td><b>Description</b></td>
-       <td><b>Tech Stack</b></td>
-       <td><b>Link</b></td>
-     </tr>
-     <tr>
-       <td>NFT Marketplace</td>
-       <td>Platform for minting and trading NFTs</td>
-       <td>React, Solidity, Web3.js, IPFS</td>
-       <td><a href="#project-link" target="_blank">Link</a></td>
-     </tr>
-   </table>
-   
-   <h3>Mobile Development</h3>
-   <table>
-     <tr>
-       <td><b>Project Name</b></td>
-       <td><b>Description</b></td>
-       <td><b>Tech Stack</b></td>
-       <td><b>Link</b></td>
-     </tr>
-     <tr>
-       <td>Food Delivery App</td>
-       <td>Cross-platform mobile application for food delivery</td>
-       <td>Flutter, Firebase, Node.js</td>
-       <td><a href="#project-link" target="_blank">Link</a></td>
-     </tr>
-   </table>
-
-  </samp>
-</div>
-</details>
--->
 
 <br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -198,6 +160,9 @@
       <a href="mailto:imohammedmoataz@gmail.com" target="_blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Mohammed Moataz - Gmail" height="30"/></a>
+      <a href="https://mohammed-moataz.vercel.app" target="_blank"><img align="center"
+         src="https://img.shields.io/badge/Portfolio-1ec1c1.svg?style=for-the-badge&logo=vercel&logoColor=white"
+         alt="Mohammed Moataz - Portfolio" height="30"/></a>
     </p>
     <p align="center">
       <a href="https://www.hackerrank.com/Mohammed_Moataz" target="_blank"><img align="center"
@@ -219,23 +184,21 @@
 <br />
 
 <details open>
-<summary style="cursor: pointer; font-weight: bold; list-style: none;"><picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> GitHub Account's Status</summary>
+<summary style="cursor: pointer; font-weight: bold; list-style: none;"><picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> GitHub Stats</summary>
   <br/>
 <div>
 <samp>
 
   <a href="https://github.com/mohammedmoataz?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=mohammedmoataz&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="49%" alt="Mohammed's github-readme-stats" /></a>
-  <a href="https://github.com/mohammedmoataz?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohammedmoataz&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D"  width="49%" alt="Mohammed's github-readme-streak-stats"/></a>
+  <a href="https://github.com/mohammedmoataz?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohammedmoataz&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Mohammed's github-readme-streak-stats"/></a>
   
   <a><img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedmoataz&theme=gotham&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_title=false&area=true&custom_title=Contribution%20Curve" width="100%" alt="activity graph"></a>
-  <!-- <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmoataz&theme=gotham&hide_border=true&include_all_commits=true&show_icons=true&locale=en&layout=compact&langs_count=6" width="27%" alt="Mohammed's github-most-languages" /></a> -->
-    
+
   <div align="center">
     <img src="https://github.com/MohammedMoataz/MohammedMoataz/blob/main/snake.svg" alt="snake" />
   </div>
   <br />
   
-  <!-- Portfolio iframe reference -->
   <div align="center">
     <a target="_blank" href="https://mohammed-moataz.vercel.app">
       <img src="https://img.shields.io/badge/KNOW%20ME%20MORE-1ec1c1?style=for-the-badge" alt="View My Portfolio" />
