@@ -77,7 +77,6 @@
       ![Express JS](https://img.shields.io/badge/Express.JS-545C67?style=for-the-badge&logo=Express&logoColor=white)
       ![Nest JS](https://img.shields.io/badge/Nest.JS-EA2845?style=for-the-badge&logo=NestJs&logoColor=white)
       ![Java Spring](https://img.shields.io/badge/Spring-6CB52D?style=for-the-badge&logo=Spring&logoColor=white)
-      ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
  <br>
 
@@ -129,6 +128,7 @@
  
  - **APIs & Reliability**:
       ![REST](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logoColor=white)
+      ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
       ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logoColor=white)
       ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
       ![OAuth](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
