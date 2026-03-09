@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=5000&pause=500&color=1ec1c1&vCenter=true&width=720&lines=++++++++Hi+,+I'm+Mohammed+Moataz=++++++++;Software+Engineer+%7C+Full+Stack+Developer;Clean+Architecture+%7C+DDD+%7C+Event+Driven+%7C+CQRS;Node.js+%7C+React+%7C+Next.js+%7C+ASP.NET+Core;Building+scalable%2C+production-ready+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=5000&pause=500&color=1ec1c1&vCenter=true&width=720&lines=Hi+,+I'm+Mohammed+Moataz;Software+Engineer+%7C+Full+Stack+Developer;Clean+Architecture+%7C+DDD+%7C+Event+Driven+%7C+CQRS;ASP.NET+Core+%7C+Node.js+%7C+Next.js+%7C+React;Building+scalable%2C+production-ready+systems" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,6 +26,7 @@
   <p>I'm a Software Engineer with a strong emphasis on <b>Clean Architecture, Domain-Driven Design (DDD), and CQRS</b>. I specialize in translating high-level architectural designs into scalable <b>Event-Driven</b> and <b>Vertical Slice</b> architectures. With hands-on experience across the full stack, I build robust backend systems, secure authentication flows, and dynamic user interfaces — leveraging AI-augmented workflows to ship high-quality, production-ready code.</p>
 
   <h4>🚀 What I Do</h4>
+  <picture><img align="right" width="150px" alt="side_sticker" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpsdTd1cmZ2djdtN2FtZTFza3U0cDJxZXN6bWZ6ODVobHl2NGdsdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" /></picture>
   <ul>
     <li>Architect scalable backend systems using Event-Driven architecture, CQRS, and DDD</li>
     <li>Build secure authentication systems, OTP subsystems, and process middleware</li>
@@ -62,11 +63,11 @@
    <p align="center">
    
   - **Architecture & Patterns**:
-      ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1ec1c1?style=for-the-badge&logoColor=white)
-      ![DDD](https://img.shields.io/badge/DDD-1ec1c1?style=for-the-badge&logoColor=white)
-      ![CQRS](https://img.shields.io/badge/CQRS-1ec1c1?style=for-the-badge&logoColor=white)
-      ![SOLID](https://img.shields.io/badge/SOLID-1ec1c1?style=for-the-badge&logoColor=white)
-      ![Event--Driven](https://img.shields.io/badge/Event--Driven-1ec1c1?style=for-the-badge&logoColor=white)
+      ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1aa2a3?style=for-the-badge&logoColor=white)
+      ![DDD](https://img.shields.io/badge/DDD-1aa2a3?style=for-the-badge&logoColor=white)
+      ![CQRS](https://img.shields.io/badge/CQRS-1aa2a3?style=for-the-badge&logoColor=white)
+      ![SOLID](https://img.shields.io/badge/SOLID-1aa2a3?style=for-the-badge&logoColor=white)
+      ![Event--Driven](https://img.shields.io/badge/Event--Driven-1aa2a3?style=for-the-badge&logoColor=white)
 
   <br>
 
@@ -94,6 +95,7 @@
       ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
       ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-326790?style=for-the-badge&logo=postgresql&logoColor=white)
       ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+      ![SQL_Server](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
       ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
  <br>
@@ -136,10 +138,6 @@
   </samp>
 </div>
 </details>
-
-<br />
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br />
 
 <br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
