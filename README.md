@@ -9,7 +9,7 @@
 
   <!-- Quick Links -->
   <a href="https://mohammed-moataz.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1ec1c1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-1b9191?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/mohammed-moataz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -23,7 +23,7 @@
 
   <br /><br />
 
-  <img src="https://komarev.com/ghpvc/?username=mohammedmoataz&label=Profile%20views&color=1ec1c1&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mohammedmoataz&label=Profile%20views&color=1b9191&style=flat-square" alt="Profile views" />
 
   <br />
 
@@ -155,7 +155,7 @@ Software Engineer with a strong emphasis on **Clean Architecture**, **Domain-Dri
   <a href="https://wa.me/+201008581523" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-20CB41?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/mohammed-moataz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>&nbsp;
   <a href="mailto:imohammedmoataz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>&nbsp;
-  <a href="https://mohammed-moataz.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1ec1c1?style=for-the-badge&logo=vercel&logoColor=white" height="35" /></a>
+  <a href="https://mohammed-moataz.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1b9191?style=for-the-badge&logo=vercel&logoColor=white" height="35" /></a>
 
   <br />
 
@@ -192,7 +192,7 @@ Software Engineer with a strong emphasis on **Clean Architecture**, **Domain-Dri
   <br /><br />
 
   <a target="_blank" href="https://mohammed-moataz.vercel.app">
-    <img src="https://img.shields.io/badge/KNOW%20ME%20MORE-1ec1c1?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/KNOW%20ME%20MORE-1b9191?style=for-the-badge" alt="Portfolio" />
   </a>
 
 </div>
