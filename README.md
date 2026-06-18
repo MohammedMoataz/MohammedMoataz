@@ -41,16 +41,16 @@
 
 <img align="right" width="220" src="https://media.giphy.com/media/aWclbRb938Tc8FFAvH/giphy.gif" alt="coding" />
 
-Software Engineer with a strong emphasis on **Clean Architecture**, **Domain-Driven Design**, and **CQRS**. I translate high-level architectural designs into scalable **Event-Driven** and **Vertical Slice** architectures.
+Software Engineer building full-stack systems with a focus on clean, maintainable architecture. I own features end-to-end — from backend design to frontend integration — and apply AI-augmented workflows to ship faster without cutting corners.
 
 **What I bring to the table:**
 
-- Architect scalable backends with Event-Driven architecture, CQRS & DDD
-- Build secure auth systems, OTP subsystems & process middleware
-- Design hybrid data models across SQL and NoSQL databases
-- Integrate AI services and automation into backend workflows
-- Develop multi-tenant SaaS platforms with RBAC and auditing
-- Implement smart contracts and blockchain-based solutions
+- Design and implement event-driven backends using CQRS and DDD
+- Build secure authentication systems and OTP subsystems
+- Integrate frontends with backend services and third-party APIs
+- Develop e-commerce and LMS platforms across B2B and B2C models
+- Deploy smart contracts and blockchain-based solutions
+- Leverage AI tools to accelerate development workflows
 
 <br clear="both" />
 
@@ -70,6 +70,14 @@ Software Engineer with a strong emphasis on **Clean Architecture**, **Domain-Dri
       <img src="https://img.shields.io/badge/SOLID-1aa2a3?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Event--Driven-1aa2a3?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Vertical%20Slice-1aa2a3?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spec--kit-1aa2a3?style=for-the-badge" />
     </td>
   </tr>
   <tr>
