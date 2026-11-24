@@ -41,7 +41,9 @@
 
 <img align="right" width="220" src="https://media.giphy.com/media/aWclbRb938Tc8FFAvH/giphy.gif" alt="coding" />
 
-Software Engineer building full-stack systems with a focus on clean, maintainable architecture. I own features end-to-end — from backend design to frontend integration — and apply AI-augmented workflows to ship faster without cutting corners.
+- Software Engineer building full-stack systems with a focus on clean, maintainable architecture
+- Own features end-to-end, from backend design to frontend integration
+- Apply AI-augmented workflows to ship faster without cutting corners
 
 **What I bring to the table:**
 
@@ -78,6 +80,8 @@ Software Engineer building full-stack systems with a focus on clean, maintainabl
       <img src="https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
       <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
       <img src="https://img.shields.io/badge/Spec--kit-1aa2a3?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -110,6 +114,8 @@ Software Engineer building full-stack systems with a focus on clean, maintainabl
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/SASS-CF649A?style=for-the-badge&logo=sass&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -160,7 +166,7 @@ Software Engineer building full-stack systems with a focus on clean, maintainabl
 
 <div align="center">
 
-  <a href="https://wa.me/+201008581523" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-20CB41?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" /></a>&nbsp;
+  <a href="https://wa.me/201008581523" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-20CB41?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/mohammed-moataz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>&nbsp;
   <a href="mailto:imohammedmoataz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>&nbsp;
   <a href="https://mohammed-moataz.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1b9191?style=for-the-badge&logo=vercel&logoColor=white" height="35" /></a>
