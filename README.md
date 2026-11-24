@@ -17,8 +17,8 @@
   <a href="mailto:imohammedmoataz@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://drive.google.com/drive/folders/17-9gVRAzc9e0myx1_IPGUwUUyn_JRLFb" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  <a href="https://mohammed-moataz.vercel.app/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 
   <br /><br />
