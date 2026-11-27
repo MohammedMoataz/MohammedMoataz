@@ -166,6 +166,7 @@
 
 - [Reporting in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/59fc110ae45698a74a347839288f241f3bc24282) · DataCamp · Nov 2024
 - [Applying SQL to Real-World Problems](https://www.datacamp.com/completed/statement-of-accomplishment/course/fa3c24a8c4aeaba0c27063f5d56b2bed3692aac4) · DataCamp · Nov 2024
+- CBMIS Full-Stack Certificate · CBM integrated software Inc. · Feb 2023
 - [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/6SRBZVYJ3E9W) · Google · Dec 2022
 - [Agile Scrum](https://certificates.orangedigitalcenteregypt.com/ODC6683128OL) · Orange Digital Center Egypt · Sep 2022
 - [Backend Hackathon](https://certificates.orangedigitalcenteregypt.com/ODC1711028DL) · Orange Digital Center Egypt · Sep 2022
