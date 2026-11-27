@@ -160,6 +160,24 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- ━━━━━━━━━━━━━━━━ CERTIFICATES ━━━━━━━━━━━━━━━━ -->
+
+<h2>🎓 Certificates</h2>
+
+- [Reporting in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/59fc110ae45698a74a347839288f241f3bc24282) · DataCamp · Nov 2024
+- [Applying SQL to Real-World Problems](https://www.datacamp.com/completed/statement-of-accomplishment/course/fa3c24a8c4aeaba0c27063f5d56b2bed3692aac4) · DataCamp · Nov 2024
+- [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/6SRBZVYJ3E9W) · Google · Dec 2022
+- [Agile Scrum](https://certificates.orangedigitalcenteregypt.com/ODC6683128OL) · Orange Digital Center Egypt · Sep 2022
+- [Backend Hackathon](https://certificates.orangedigitalcenteregypt.com/ODC1711028DL) · Orange Digital Center Egypt · Sep 2022
+- Web Design · National Telecommunication Institute (NTI) · Aug 2022
+- InnovEgypt Program · ITIDA, Technology Innovation and Entrepreneurship Center · Aug 2022
+- [Google Project Management Specialization](https://www.coursera.org/account/accomplishments/professional-cert/KR4XWVRPCRG5) · Google · Jun 2022
+- Java Spring Developer Track · Information Technology Institute (ITI) · May 2022
+- [Artificial Intelligence Intro](https://www.credly.com/badges/a498673f-125d-4575-ae60-34d16e2f5847) · IBM · Dec 2021
+- Certificate of Appreciation · Google Developer Student Clubs, Helwan University · Jan 2021
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- ━━━━━━━━━━━━━━━━ CONTACT ━━━━━━━━━━━━━━━━ -->
 
 <h2><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpobmdpMXVyMnY3NHB4NHg2cXU3MHJxcndoenBtazFhbDdxc210byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5Y6dELctbC0LwkFWam/giphy.gif" width="30"> Get in Touch</h2>
